@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deckgl_app/app/static/css/main.bf9e1802.css",
+    "main.js": "/deckgl_app/app/static/js/main.0a2b9eae.js",
+    "static/js/787.7d5324d6.chunk.js": "/deckgl_app/app/static/js/787.7d5324d6.chunk.js",
+    "index.html": "/deckgl_app/app/index.html",
+    "main.bf9e1802.css.map": "/deckgl_app/app/static/css/main.bf9e1802.css.map",
+    "main.0a2b9eae.js.map": "/deckgl_app/app/static/js/main.0a2b9eae.js.map",
+    "787.7d5324d6.chunk.js.map": "/deckgl_app/app/static/js/787.7d5324d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9e1802.css",
+    "static/js/main.0a2b9eae.js"
+  ]
+}
